@@ -1,0 +1,47 @@
+
+    h1{
+        color:red;
+    }
+    *{
+        border:solid;
+    }
+
+    .header
+    {
+        color:rgba(2, 20, 0, 0);
+        background-color: grey;
+        display: flex;
+        justify-content: space-between ;
+
+    
+    }
+
+    .menu
+    {
+        color:beige;
+        justify-content: space-evenly;
+    }
+
+    .grid
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        
+    }
+
+    .item
+    {
+        padding: 5px;
+    }
+
+    .footer 
+    {
+        display: flex; 
+        justify-content: flex-end;
+    }
+
+    p,h2
+    {
+        text-align: center;
+    }
